@@ -1,2 +1,4 @@
 this is my first git code
 code updated
+
+git checkout this code
